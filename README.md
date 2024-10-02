@@ -1,16 +1,38 @@
-# radio_test_4
+# radio-amateur-quiz-app
+Δίπλωμα Ραδιοερασιτεχνίας - Open Source Flutter Code
 
-A new Flutter project.
+## 📱 Εφαρμογή Quiz
 
-## Getting Started
+Αυτή η εφαρμογή φτιάχτηκε για να βοηθήσει στην εκμάθηση του ερωτηματολογίου των εξετάσεων διπλώματος ραδιοερασιτέχνη. Περιέχει ολόκληρο το ερωτηματολόγιο, καθώς και τις κατάλληλες εικόνες, στον φάκελο lib. Επίσης παρέχει την δυνατότητα προβολής των αποτελεσμάτων μιας εξέτασης, καθώς και την ικανότητα αποθήκευσης ερωτήσεων σε τοπικό φάκελο, για περαιτέρω εξάσκηση.
 
-This project is a starting point for a Flutter application.
+## 🔧 Τεχνολογίες και Εργαλεία
 
-A few resources to get you started if this is your first Flutter project:
+- Γλώσσα Προγραμματισμού: Dart
+- Πλατφόρμα Ανάπτυξης: Flutter
+- Εργαλεία: Visual Studio Code
+- AdMob SDK για προβολή διαφημίσεων
+- Αυτή η εφαρμογή έχει φτιαχτεί για Android.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Εγκατάσταση
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Ακολουθήστε τα παρακάτω βήματα για να εγκαταστήσετε την εφαρμογή τοπικά:
+
+1. Κλωνάρετε το αποθετήριο:
+     git clone https://github.com/Metabolica-Software/radio-amateur-quiz-app.git
+
+2. Μεταβείτε στον φάκελο του έργου:
+     cd radio-amateur-quiz-app
+
+3. Εγκαταστήστε τις εξαρτήσεις:
+     flutter pub get
+
+4. Τρέξτε την εφαρμογή:
+     flutter run
+
+## 📄 Άδεια Χρήσης
+
+Αυτή η εφαρμογή διατίθεται υπό την άδεια MIT. Δείτε το αρχείο LICENSE για περισσότερες πληροφορίες.
+
+## 📧 Επικοινωνία
+
+Αν έχετε οποιαδήποτε ερώτηση, μπορείτε να επικοινωνήσετε στο email: stratosdel01@gmail.com
